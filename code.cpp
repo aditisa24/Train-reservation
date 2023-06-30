@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 #define MAX 50
-
 int nosr1 = 0;
 int nosr2 = 0;
 int p = 0;
